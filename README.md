@@ -31,22 +31,15 @@ cd google-calendar-assistant
 
 ### 2. Install the required packages:
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
 ```
 ### 3. Create a .env file:
 ```bash
-ini
-Copy
-Edit
 COMPOSIO_KEY=your_composio_api_key
 GOOGLE_API_KEY=your_google_api_key
 ```
 ### 4. Run the Streamlit app:
 ```bash
-Copy
-Edit
 streamlit run app.py
 ```
 💡 Example Commands
@@ -73,16 +66,6 @@ This project is licensed under the MIT License.
 Thanks to Composio for seamless API integrations.
 Thanks to Google AI for the powerful Gemini model.
 Thanks to the LangChain ecosystem for the agent framework.
-yaml
-Copy
-Edit
-
----
-
-Would you also like me to create the actual **`requirements.txt`**, **`.env.example`**, or **`LICENSE`** files?
-
-
-
 
 
 
