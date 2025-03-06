@@ -24,30 +24,31 @@ An AI-powered assistant to manage your Google Calendar using natural language. T
 ## 🧰 Setup Instructions
 
 ### 1. Clone the repository:
-'''bash
+``` bash
 git clone https://github.com/yourusername/google-calendar-assistant.git
 cd google-calendar-assistant
-'''
+```
 
 ### 2. Install the required packages:
-'''bash
+```bash
 Copy
 Edit
 pip install -r requirements.txt
-'''
+```
 ### 3. Create a .env file:
-'''bash
+```bash
 ini
 Copy
 Edit
 COMPOSIO_KEY=your_composio_api_key
 GOOGLE_API_KEY=your_google_api_key
-'''
+```
 ### 4. Run the Streamlit app:
-'''bash
+```bash
 Copy
 Edit
 streamlit run app.py
+```
 💡 Example Commands
 Try asking:
 
