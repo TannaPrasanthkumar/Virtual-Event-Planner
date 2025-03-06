@@ -1,4 +1,4 @@
-# 📅 Google Calendar Assistant
+# 📅 Virtual Event Planner
 
 An AI-powered assistant to manage your Google Calendar using natural language. This app uses **Streamlit**, **LangChain**, **Composio**, and **Google Gemini (1.5 Pro)** to help you find free slots, create events, and check existing meetings, all while handling dates and times in **Indian Standard Time (IST)**.
 
