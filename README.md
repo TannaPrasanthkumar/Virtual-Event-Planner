@@ -25,7 +25,7 @@ An AI-powered assistant to manage your Google Calendar using natural language. T
 
 ### 1. Clone the repository:
 ``` bash
-git clone https://github.com/yourusername/google-calendar-assistant.git
+git clone https://github.com/TannaPrasanthkumar/Virtual-Event-Planner
 cd google-calendar-assistant
 ```
 
