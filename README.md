@@ -1,24 +1,34 @@
-📅 Google Calendar Assistant
-An AI-powered assistant to manage your Google Calendar using natural language. This app uses Streamlit, LangChain, Composio, and Google Gemini (1.5 Pro) to help you find free slots, create events, and check existing meetings, all while handling dates and times in Indian Standard Time (IST).
+# 📅 Google Calendar Assistant
 
-🚀 Features
-🔍 Find Free Time: Check for available slots in your calendar.
-📝 Schedule Events: Book meetings with attendees and descriptions.
-📋 View Events: Search and view your upcoming events.
-🕒 Handles relative dates like today, tomorrow, and next week accurately in IST.
-🌐 Easy-to-use interface built with Streamlit.
-🛠️ Tech Stack
-Streamlit
-LangChain
-Composio
-Google Gemini 1.5 Pro
-🧰 Setup Instructions
-1. Clone the repository:
-bash
-Copy
-Edit
+An AI-powered assistant to manage your Google Calendar using natural language. This app uses **Streamlit**, **LangChain**, **Composio**, and **Google Gemini (1.5 Pro)** to help you find free slots, create events, and check existing meetings, all while handling dates and times in **Indian Standard Time (IST)**.
+
+---
+
+## 🚀 Features
+- 🔍 **Find Free Time:** Check for available slots in your calendar.
+- 📝 **Schedule Events:** Book meetings with attendees and descriptions.
+- 📋 **View Events:** Search and view your upcoming events.
+- 🕒 Handles relative dates like _today_, _tomorrow_, and _next week_ accurately in IST.
+- 🌐 Easy-to-use interface built with Streamlit.
+
+---
+
+## 🛠️ Tech Stack
+- [Streamlit](https://streamlit.io/)
+- [LangChain](https://www.langchain.com/)
+- [Composio](https://composio.dev)
+- [Google Gemini 1.5 Pro](https://ai.google.dev)
+
+---
+
+## 🧰 Setup Instructions
+
+### 1. Clone the repository:
+```bash
 git clone https://github.com/yourusername/google-calendar-assistant.git
 cd google-calendar-assistant
+
+
 2. Install the required packages:
 bash
 Copy
@@ -59,3 +69,16 @@ This project is licensed under the MIT License.
 Thanks to Composio for seamless API integrations.
 Thanks to Google AI for the powerful Gemini model.
 Thanks to the LangChain ecosystem for the agent framework.
+yaml
+Copy
+Edit
+
+---
+
+Would you also like me to create the actual **`requirements.txt`**, **`.env.example`**, or **`LICENSE`** files?
+
+
+
+
+
+
